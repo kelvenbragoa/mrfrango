@@ -5,15 +5,15 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="NAUTICOS">
-	<meta name="author" content="NAUTICOS">
-	<meta name="keywords" content="NAUTICOS">
+	<meta name="description" content="Mr Frango">
+	<meta name="author" content="Mr Frango">
+	<meta name="keywords" content="Mr Frango">
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
 	@vite(['resources/css/app.css', 'resources/js/app.js'])
 	<link rel="shortcut icon" href="{{asset('files/img/sys/logoinogesticon.png')}}" />
 	<link href="{{asset('template/css/app.css')}}" rel="stylesheet">
 	<link rel="stylesheet" href="{{asset('toastr.min.css')}}" />
-	<title>NAUTICOS</title>
+	<title>Mr Frango</title>
 </head>
 
 <body>
@@ -21,7 +21,7 @@
 		<nav id="sidebar" class="sidebar">
 			<div class="sidebar-content js-simplebar">
 				<router-link class="sidebar-brand" to="/admin/dashboard">
-          			<span class="align-middle">NAUTICOS</span>
+          			<span class="align-middle">Mr Frango</span>
         		</router-link>
 
 				<ul class="sidebar-nav">
@@ -452,7 +452,7 @@
 					<div class="row text-muted">
 						<div class="col-6 text-left">
 							<p class="mb-0">
-								<a href="#" class="text-muted"><strong>NAUTICOS</strong></a> &copy; {{ date('Y')}}
+								<a href="#" class="text-muted"><strong>Mr Frango</strong></a> &copy; {{ date('Y')}}
 							</p>
 						</div>
 						<div class="col-6 text-right">

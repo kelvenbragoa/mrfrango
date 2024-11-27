@@ -13,7 +13,7 @@
 	<link rel="shortcut icon" href="/files/img/sys/logoinogesticon.png" />
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
-	<title>NAUTICOS</title>
+	<title>Mr Frango</title>
 
 	<link href="{{asset('template/css/app.css')}}" rel="stylesheet">
 </head>

@@ -11,7 +11,7 @@
 
 	<link rel="shortcut icon" href="files/img/sys/logoinogesticon.png" />
 
-	<title>Clube Nauticos da Beira</title>
+	<title>Mr Frango</title>
 
 	<link href="{{asset('template/css/app.css')}}" rel="stylesheet">
 </head>
